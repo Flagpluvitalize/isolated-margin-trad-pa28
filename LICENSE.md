@@ -1,4 +1,4 @@
-# 
+# new cross-margin trading bot Algorithm | trailing-stop + webhook-support offers the most advanced cross-margin trading bot, with trailing-stop and webhook-support. Ideal for
 
 
 
